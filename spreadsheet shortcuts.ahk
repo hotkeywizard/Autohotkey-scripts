@@ -1,5 +1,11 @@
 ﻿/*
-Created by Nicholas Christopher. June 6, 2024
+
+Copyright (c) <2024>, <Nicholas Christopher>
+All rights reserved.
+
+This source code is licensed under the GPL License license found in the
+GPL License file in the root directory of this source tree. 
+
 Script to convert f13 through f24 into spreadsheet shortcut buttons
 
 To remap to another key, just change the name (example change "f13::"  to  "f1::" to use the f1 key)
