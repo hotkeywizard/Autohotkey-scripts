@@ -3,7 +3,7 @@
 Copyright (c) <2024>, <Nicholas Christopher>
 All rights reserved.
 
-This source code is licensed under the GPL License license found in the
+This source code is licensed under the GPL License found in the
 GPL License file in the root directory of this source tree. 
 
 Script to convert f13 through f24 into spreadsheet shortcut buttons
